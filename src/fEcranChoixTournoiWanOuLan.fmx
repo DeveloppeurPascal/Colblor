@@ -1,0 +1,42 @@
+inherited frmEcranChoixTournoiWanOuLan: TfrmEcranChoixTournoiWanOuLan
+  Size.Width = 870.000000000000000000
+  Size.Height = 439.000000000000000000
+  OnResize = FrameResize
+  object ZoneBoutonsMenu: TVertScrollBox
+    Align = Center
+    Size.Width = 250.000000000000000000
+    Size.Height = 145.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 250.000000000000000000
+    Viewport.Height = 145.000000000000000000
+    object btnTournoiWan: TBoutonMenu
+      Align = Top
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 240.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = btnTournoiWanClick
+      BoutonMenuType = TournoiWan
+    end
+    object btnTournoiLan: TBoutonMenu
+      Align = Top
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 63.000000000000000000
+      Size.Width = 240.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = btnTournoiLanClick
+      BoutonMenuType = TournoiLan
+    end
+  end
+end

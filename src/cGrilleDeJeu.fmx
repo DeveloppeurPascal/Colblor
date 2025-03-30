@@ -1,0 +1,92 @@
+inherited GrilleDeJeu: TGrilleDeJeu
+  HitTest = False
+  Margins.Left = 2.000000000000000000
+  Margins.Top = 2.000000000000000000
+  Margins.Right = 2.000000000000000000
+  Margins.Bottom = 2.000000000000000000
+  Size.Width = 846.000000000000000000
+  Size.Height = 551.000000000000000000
+  OnResize = FrameResize
+  object GrilleAffichee: TGridPanelLayout
+    Align = Center
+    HitTest = False
+    Size.Width = 300.000000000000000000
+    Size.Height = 300.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    ColumnCollection = <
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end>
+    ControlCollection = <>
+    RowCollection = <
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end
+      item
+        Value = 10.000000000000000000
+      end>
+  end
+  object CadreDeLaGrille: TRectangle
+    Align = Center
+    Fill.Kind = None
+    Size.Width = 846.000000000000000000
+    Size.Height = 551.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claDarkgray
+    Stroke.Thickness = 3.000000000000000000
+    XRadius = 5.000000000000000000
+    YRadius = 5.000000000000000000
+  end
+end

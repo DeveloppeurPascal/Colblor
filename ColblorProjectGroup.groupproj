@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{04A253A6-4E11-466E-BDDE-22268C728BDF}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="packages\10_4-Sydney\ColblorPkg.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="src\Colblor.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ColblorPkg">
+        <MSBuild Projects="packages\10_4-Sydney\ColblorPkg.dproj"/>
+    </Target>
+    <Target Name="ColblorPkg:Clean">
+        <MSBuild Projects="packages\10_4-Sydney\ColblorPkg.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ColblorPkg:Make">
+        <MSBuild Projects="packages\10_4-Sydney\ColblorPkg.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Colblor">
+        <MSBuild Projects="src\Colblor.dproj"/>
+    </Target>
+    <Target Name="Colblor:Clean">
+        <MSBuild Projects="src\Colblor.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Colblor:Make">
+        <MSBuild Projects="src\Colblor.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ColblorPkg;Colblor"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ColblorPkg:Clean;Colblor:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ColblorPkg:Make;Colblor:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

@@ -1,0 +1,57 @@
+inherited frmEcranChoixNiveauDifficulte: TfrmEcranChoixNiveauDifficulte
+  Align = Contents
+  Size.Width = 940.000000000000000000
+  Size.Height = 555.000000000000000000
+  OnResize = FrameResize
+  object ZoneBoutonsMenu: TVertScrollBox
+    Align = Center
+    Size.Width = 250.000000000000000000
+    Size.Height = 233.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 250.000000000000000000
+    Viewport.Height = 233.000000000000000000
+    object btnNiveauFacile: TBoutonMenu
+      Align = Top
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 240.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = btnNiveauFacileClick
+      BoutonMenuType = NiveauFacile
+    end
+    object btnNiveauDifficile: TBoutonMenu
+      Align = Top
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 121.000000000000000000
+      Size.Width = 240.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = btnNiveauDifficileClick
+      BoutonMenuType = NiveauDifficile
+    end
+    object btnNiveauMoyen: TBoutonMenu
+      Align = Top
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 63.000000000000000000
+      Size.Width = 240.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = btnNiveauMoyenClick
+      BoutonMenuType = NiveauMoyen
+    end
+  end
+end

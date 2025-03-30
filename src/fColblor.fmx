@@ -1,0 +1,19 @@
+inherited frmColblor: TfrmColblor
+  Caption = 'Colblor'
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object animMasquageEcran: TFloatAnimation
+    Duration = 0.500000000000000000
+    OnFinish = animMasquageEcranFinish
+    PropertyName = 'Position.y'
+    StartValue = 0.000000000000000000
+    StopValue = 0.000000000000000000
+  end
+  object animAffichageEcran: TFloatAnimation
+    Duration = 0.500000000000000000
+    OnFinish = animAffichageEcranFinish
+    PropertyName = 'Position.y'
+    StartValue = 0.000000000000000000
+    StopValue = 0.000000000000000000
+  end
+end

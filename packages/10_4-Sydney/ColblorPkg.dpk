@@ -1,0 +1,74 @@
+﻿/// <summary>
+/// ***************************************************************************
+///
+/// Colblor
+///
+/// Copyright 2021-2025 Patrick PREMARTIN under AGPL 3.0 license.
+///
+/// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+/// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+/// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+/// THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+/// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+/// FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+/// DEALINGS IN THE SOFTWARE.
+///
+/// ***************************************************************************
+///
+/// Author(s) :
+/// Patrick PREMARTIN
+///
+/// Site :
+/// https://colblor.gamolf.fr
+///
+/// Project site :
+/// https://github.com/DeveloppeurPascal/Colblor
+///
+/// ***************************************************************************
+/// File last update : 2025-03-30T17:44:00.000+02:00
+/// Signature : 754c5635ed92a50d92f4d810c5be8513ae48122e
+/// ***************************************************************************
+/// </summary>
+
+package ColblorPkg;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  fmx,
+  FireDACSqliteDriver,
+  fmxFireDAC;
+
+contains
+  cBoutonMenu in '..\..\src\cBoutonMenu.pas' {BoutonMenu: TFrame},
+  fAncetreCadreTraduit in '..\..\lib-externes\Colblor-Translator\src\fAncetreCadreTraduit.pas' {_AncetreCadreTraduit: TFrame},
+  uDMTraductions in '..\..\lib-externes\Colblor-Translator\src\uDMTraductions.pas' {dmTraductions: TDataModule},
+  fAncetreFicheTraduite in '..\..\lib-externes\Colblor-Translator\src\fAncetreFicheTraduite.pas' {_AncetreFicheTraduite};
+
+end.

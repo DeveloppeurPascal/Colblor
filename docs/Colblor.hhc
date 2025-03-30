@@ -1,0 +1,1592 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="Window Styles" value="0x800227">
+    </OBJECT>
+    <UL>      <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="Colblor">
+          <param name="Local" value="Colblor.html">
+          </OBJECT>
+      <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="Colblor">
+          <param name="Local" value="Colblor.html">
+          </OBJECT>
+          <UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="cBoutonMenu">
+                  <param name="Local" value="cBoutonMenu.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TBoutonMenu">
+                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BoutonMenuType">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.BoutonMenuType.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="background">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.background.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="logo">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.logo.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="text">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.text.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Enumerations">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TBoutonMenuType">
+                                  <param name="Local" value="cBoutonMenu.TBoutonMenuType.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuEnTrainig">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.JeuEnTrainig.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuEnChrono">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.JeuEnChrono.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuEnChallenge">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.JeuEnChallenge.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuEnTournoi">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.JeuEnTournoi.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="CreditsDuJeu">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.CreditsDuJeu.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="HallOfFame">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.HallOfFame.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="QuitterLeProgramme">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.QuitterLeProgramme.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Reglages">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.Reglages.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="NiveauFacile">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.NiveauFacile.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="NiveauMoyen">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.NiveauMoyen.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="NiveauDifficile">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.NiveauDifficile.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="RetourAuMenu">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.RetourAuMenu.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Enregistrer">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.Enregistrer.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Charger">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.Charger.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="TournoiWan">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.TournoiWan.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="TournoiLan">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.TournoiLan.html">
+                                          </OBJECT>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="BoutonMenu">
+                                  <param name="Local" value="cBoutonMenu.BoutonMenu.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="Register">
+                                  <param name="Local" value="cBoutonMenu.Register.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="cGrilleDeJeu">
+                  <param name="Local" value="cGrilleDeJeu.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TGrilleDeJeu">
+                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="AfficherLaGrille">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.AfficherLaGrille.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Bascule">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.Bascule.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CouleurAuHasard">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.CouleurAuHasard.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CouleurLaMoinsUtilisee">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.CouleurLaMoinsUtilisee.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CouleurLaPlusUtilisee">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.CouleurLaPlusUtilisee.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FrameResize">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.FrameResize.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="InitialiserLaGrille">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.InitialiserLaGrille.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="RemplirLaGrille">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.RemplirLaGrille.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="RemplirLaGrilleDepuisGrilleTournoi">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.RemplirLaGrilleDepuisGrilleTournoi.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="getAlphaColorFromCouleur">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.getAlphaColorFromCouleur.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="hasPlusieursCouleurs">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.hasPlusieursCouleurs.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CadreDeLaGrille">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.CadreDeLaGrille.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GrilleAffichee">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.GrilleAffichee.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="grille">
+                                                  <param name="Local" value="cGrilleDeJeu.TGrilleDeJeu.grille.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Records">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TCase">
+                                  <param name="Local" value="cGrilleDeJeu.TCase.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="couleur">
+                                                  <param name="Local" value="cGrilleDeJeu.TCase.couleur.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="rect">
+                                                  <param name="Local" value="cGrilleDeJeu.TCase.rect.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Types">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TCases">
+                                  <param name="Local" value="cGrilleDeJeu.TCases.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Constants">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="CNbCol">
+                                  <param name="Local" value="cGrilleDeJeu.CNbCol.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="CNbLig">
+                                  <param name="Local" value="cGrilleDeJeu.CNbLig.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fAncetreCadreTraduit">
+                  <param name="Local" value="fAncetreCadreTraduit.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="T_AncetreCadreTraduit">
+                                  <param name="Local" value="fAncetreCadreTraduit.T_AncetreCadreTraduit.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fAncetreFicheTraduite">
+                  <param name="Local" value="fAncetreFicheTraduite.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="T_AncetreFicheTraduite">
+                                  <param name="Local" value="fAncetreFicheTraduite.T_AncetreFicheTraduite.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="fAncetreFicheTraduite.T_AncetreFicheTraduite.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TraduireTextes">
+                                                  <param name="Local" value="fAncetreFicheTraduite.T_AncetreFicheTraduite.TraduireTextes.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fColblor">
+                  <param name="Local" value="fColblor.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmColblor">
+                                  <param name="Local" value="fColblor.TfrmColblor.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FormCreate">
+                                                  <param name="Local" value="fColblor.TfrmColblor.FormCreate.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TraduireTextes">
+                                                  <param name="Local" value="fColblor.TfrmColblor.TraduireTextes.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="animAffichageEcranFinish">
+                                                  <param name="Local" value="fColblor.TfrmColblor.animAffichageEcranFinish.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="animMasquageEcranFinish">
+                                                  <param name="Local" value="fColblor.TfrmColblor.animMasquageEcranFinish.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="animAffichageEcran">
+                                                  <param name="Local" value="fColblor.TfrmColblor.animAffichageEcran.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="animMasquageEcran">
+                                                  <param name="Local" value="fColblor.TfrmColblor.animMasquageEcran.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmColblor">
+                                  <param name="Local" value="fColblor.frmColblor.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fEcranAccueil">
+                  <param name="Local" value="fEcranAccueil.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmEcranAccueil">
+                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FrameResize">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.FrameResize.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnCreditsDuJeuClick">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnCreditsDuJeuClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnHallOfFameClick">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnHallOfFameClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJeuChallengeClick">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnJeuChallengeClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJeuChronoClick">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnJeuChronoClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJeuTournoiClick">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnJeuTournoiClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJeuTrainingClick">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnJeuTrainingClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnQuitterLeProgrammeClick">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnQuitterLeProgrammeClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnReglagesClick">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnReglagesClick.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ZoneBoutonsMenu">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.ZoneBoutonsMenu.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnCreditsDuJeu">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnCreditsDuJeu.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnHallOfFame">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnHallOfFame.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJeuChallenge">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnJeuChallenge.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJeuChrono">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnJeuChrono.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJeuTournoi">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnJeuTournoi.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJeuTraining">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnJeuTraining.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnQuitterLeProgramme">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnQuitterLeProgramme.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnReglages">
+                                                  <param name="Local" value="fEcranAccueil.TfrmEcranAccueil.btnReglages.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmEcranAccueil">
+                                  <param name="Local" value="fEcranAccueil.frmEcranAccueil.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fEcranChoixNiveauDifficulte">
+                  <param name="Local" value="fEcranChoixNiveauDifficulte.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmEcranChoixNiveauDifficulte">
+                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FrameResize">
+                                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.FrameResize.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnNiveauDifficileClick">
+                                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.btnNiveauDifficileClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnNiveauFacileClick">
+                                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.btnNiveauFacileClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnNiveauMoyenClick">
+                                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.btnNiveauMoyenClick.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ZoneBoutonsMenu">
+                                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.ZoneBoutonsMenu.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnNiveauDifficile">
+                                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.btnNiveauDifficile.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnNiveauFacile">
+                                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.btnNiveauFacile.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnNiveauMoyen">
+                                                  <param name="Local" value="fEcranChoixNiveauDifficulte.TfrmEcranChoixNiveauDifficulte.btnNiveauMoyen.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmEcranChoixNiveauDifficulte">
+                                  <param name="Local" value="fEcranChoixNiveauDifficulte.frmEcranChoixNiveauDifficulte.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fEcranChoixTournoiWanOuLan">
+                  <param name="Local" value="fEcranChoixTournoiWanOuLan.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmEcranChoixTournoiWanOuLan">
+                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.TfrmEcranChoixTournoiWanOuLan.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.TfrmEcranChoixTournoiWanOuLan.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FrameResize">
+                                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.TfrmEcranChoixTournoiWanOuLan.FrameResize.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnTournoiLanClick">
+                                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.TfrmEcranChoixTournoiWanOuLan.btnTournoiLanClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnTournoiWanClick">
+                                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.TfrmEcranChoixTournoiWanOuLan.btnTournoiWanClick.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ZoneBoutonsMenu">
+                                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.TfrmEcranChoixTournoiWanOuLan.ZoneBoutonsMenu.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnTournoiLan">
+                                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.TfrmEcranChoixTournoiWanOuLan.btnTournoiLan.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnTournoiWan">
+                                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.TfrmEcranChoixTournoiWanOuLan.btnTournoiWan.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmEcranChoixTournoiWanOuLan">
+                                  <param name="Local" value="fEcranChoixTournoiWanOuLan.frmEcranChoixTournoiWanOuLan.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fEcranJeu">
+                  <param name="Local" value="fEcranJeu.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TfrmEcranJeu">
+                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Compteur">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.Compteur.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="NbSecondes">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.NbSecondes.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="InitialiserLeJeu">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.InitialiserLeJeu.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBlackClick">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBlackClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBlancClick">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBlancClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBleuClick">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBleuClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJauneClick">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnJauneClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRougeClick">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnRougeClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnVertClick">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnVertClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnVioletClick">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnVioletClick.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="timerChronoTimer">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.timerChronoTimer.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="timerTournoiAttentePartieTimer">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.timerTournoiAttentePartieTimer.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BlocageAttentePartie">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.BlocageAttentePartie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BlocageEcran">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.BlocageEcran.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BlocageEcranAnimation">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.BlocageEcranAnimation.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BlocageEcranBackground">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.BlocageEcranBackground.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GridPanelLayout1">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.GridPanelLayout1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="GrilleDeJeu1">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.GrilleDeJeu1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Layout1">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.Layout1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ZoneBoutonsCouleur">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.ZoneBoutonsCouleur.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBlack">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBlack.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBlackEffect">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBlackEffect.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBlanc">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBlanc.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBlancEffect">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBlancEffect.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBleu">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBleu.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnBleuEffect">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnBleuEffect.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJaune">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnJaune.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnJauneEffect">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnJauneEffect.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRouge">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnRouge.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnRougeEffect">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnRougeEffect.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnVert">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnVert.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnVertEffect">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnVertEffect.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnViolet">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnViolet.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="btnVioletEffect">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.btnVioletEffect.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="timerChrono">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.timerChrono.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="timerTournoiAttentePartie">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.timerTournoiAttentePartie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="txtChrono">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.txtChrono.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="txtCompteur">
+                                                  <param name="Local" value="fEcranJeu.TfrmEcranJeu.txtCompteur.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="frmEcranJeu">
+                                  <param name="Local" value="fEcranJeu.frmEcranJeu.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uDMTraductions">
+                  <param name="Local" value="uDMTraductions.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TdmTraductions">
+                                  <param name="Local" value="uDMTraductions.TdmTraductions.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="DataModuleCreate">
+                                                  <param name="Local" value="uDMTraductions.TdmTraductions.DataModuleCreate.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FDStanStorageBinLink1">
+                                                  <param name="Local" value="uDMTraductions.TdmTraductions.FDStanStorageBinLink1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabTextesTraduits">
+                                                  <param name="Local" value="uDMTraductions.TdmTraductions.tabTextesTraduits.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="ChangeLangue">
+                                  <param name="Local" value="uDMTraductions.ChangeLangue.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="GetLangue">
+                                  <param name="Local" value="uDMTraductions.GetLangue.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="_">
+                                  <param name="Local" value="uDMTraductions._.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uEcrans">
+                  <param name="Local" value="uEcrans.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Interfaces">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="IJeu">
+                                  <param name="Local" value="uEcrans.IJeu.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="InitialiserLeJeu">
+                                                  <param name="Local" value="uEcrans.IJeu.InitialiserLeJeu.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Enumerations">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TEcranDuJeu">
+                                  <param name="Local" value="uEcrans.TEcranDuJeu.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Aucun">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.Aucun.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Accueil">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.Accueil.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="CreditsDuJeu">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.CreditsDuJeu.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="HallOfFame">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.HallOfFame.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Reglages">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.Reglages.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="ChoixNiveauDifficulte">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.ChoixNiveauDifficulte.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Jeu">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.Jeu.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuTraining">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.JeuTraining.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuChrono">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.JeuChrono.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuChallenge">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.JeuChallenge.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuTournoi">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.JeuTournoi.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="ChoixTournoiWanOuLan">
+                                          <param name="Local" value="uEcrans.TEcranDuJeu.ChoixTournoiWanOuLan.html">
+                                          </OBJECT>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Constants">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="CIJeuGUID">
+                                  <param name="Local" value="uEcrans.CIJeuGUID.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="AfficheEcran">
+                                  <param name="Local" value="uEcrans.AfficheEcran.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uInfosPartieEnCours">
+                  <param name="Local" value="uInfosPartieEnCours.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Records">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TPartieEnCours">
+                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="InitialiserPartie">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.InitialiserPartie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TerminerPartie">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.TerminerPartie.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="CouleurActuelle">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.CouleurActuelle.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="ModeDeJeu">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.ModeDeJeu.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="NiveauDeDifficulte">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.NiveauDeDifficulte.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="NomDuJoueur">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.NomDuJoueur.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="PartieDemarree">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.PartieDemarree.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="PartieInitialisee">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.PartieInitialisee.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Score">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.Score.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TypeDeTournoi">
+                                                  <param name="Local" value="uInfosPartieEnCours.TPartieEnCours.TypeDeTournoi.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Enumerations">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TCouleurDesCases">
+                                  <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Aucune">
+                                          <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.Aucune.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Rouge">
+                                          <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.Rouge.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Vert">
+                                          <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.Vert.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Jaune">
+                                          <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.Jaune.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Bleu">
+                                          <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.Bleu.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Blanc">
+                                          <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.Blanc.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Noir">
+                                          <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.Noir.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Violet">
+                                          <param name="Local" value="uInfosPartieEnCours.TCouleurDesCases.Violet.html">
+                                          </OBJECT>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TModeDeJeu">
+                                  <param name="Local" value="uInfosPartieEnCours.TModeDeJeu.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Training">
+                                          <param name="Local" value="uInfosPartieEnCours.TModeDeJeu.Training.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Chrono">
+                                          <param name="Local" value="uInfosPartieEnCours.TModeDeJeu.Chrono.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Challenge">
+                                          <param name="Local" value="uInfosPartieEnCours.TModeDeJeu.Challenge.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Tournoi">
+                                          <param name="Local" value="uInfosPartieEnCours.TModeDeJeu.Tournoi.html">
+                                          </OBJECT>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TNiveauDifficulte">
+                                  <param name="Local" value="uInfosPartieEnCours.TNiveauDifficulte.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Facile">
+                                          <param name="Local" value="uInfosPartieEnCours.TNiveauDifficulte.Facile.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Moyen">
+                                          <param name="Local" value="uInfosPartieEnCours.TNiveauDifficulte.Moyen.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Difficile">
+                                          <param name="Local" value="uInfosPartieEnCours.TNiveauDifficulte.Difficile.html">
+                                          </OBJECT>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TTYpeDeTournoi">
+                                  <param name="Local" value="uInfosPartieEnCours.TTYpeDeTournoi.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Wan">
+                                          <param name="Local" value="uInfosPartieEnCours.TTYpeDeTournoi.Wan.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Lan">
+                                          <param name="Local" value="uInfosPartieEnCours.TTYpeDeTournoi.Lan.html">
+                                          </OBJECT>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="PartieEnCours">
+                                  <param name="Local" value="uInfosPartieEnCours.PartieEnCours.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uTournoiAPI">
+                  <param name="Local" value="uTournoiAPI.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Records">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TInfosTournoi">
+                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="APIUrl">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.APIUrl.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Couleur">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.Couleur.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Grille">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.Grille.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Horodatage">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.Horodatage.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="IDDuGagnantDeLaPartie">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.IDDuGagnantDeLaPartie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="IDJoueur">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.IDJoueur.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="IDPartie">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.IDPartie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="PseudoDuGagnantDeLaPartie">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.PseudoDuGagnantDeLaPartie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="StatusDeLaPartie">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.StatusDeLaPartie.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TempsAvantPartieSuivante">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.TempsAvantPartieSuivante.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TempsRestant">
+                                                  <param name="Local" value="uTournoiAPI.TInfosTournoi.TempsRestant.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Delegates">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TTournoiAPIgetEcranCallback">
+                                  <param name="Local" value="uTournoiAPI.TTournoiAPIgetEcranCallback.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Invoke">
+                                                  <param name="Local" value="uTournoiAPI.TTournoiAPIgetEcranCallback.Invoke.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TTournoiAPIgetGrilleCallback">
+                                  <param name="Local" value="uTournoiAPI.TTournoiAPIgetGrilleCallback.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Invoke">
+                                                  <param name="Local" value="uTournoiAPI.TTournoiAPIgetGrilleCallback.Invoke.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Types">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TCasesSansUI">
+                                  <param name="Local" value="uTournoiAPI.TCasesSansUI.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="InfosTournoi">
+                                  <param name="Local" value="uTournoiAPI.InfosTournoi.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TournoiAPIServeurURL">
+                                  <param name="Local" value="uTournoiAPI.TournoiAPIServeurURL.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TournoiAPIgetEcrans">
+                                  <param name="Local" value="uTournoiAPI.TournoiAPIgetEcrans.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TournoiAPIgetGrille">
+                                  <param name="Local" value="uTournoiAPI.TournoiAPIgetGrille.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TournoiAPIsendGrille">
+                                  <param name="Local" value="uTournoiAPI.TournoiAPIsendGrille.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+          </UL>
+      <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="ColblorPkg">
+          <param name="Local" value="ColblorPkg.html">
+          </OBJECT>
+          <UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="cBoutonMenu">
+                  <param name="Local" value="cBoutonMenu.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TBoutonMenu">
+                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Properties">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="BoutonMenuType">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.BoutonMenuType.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="background">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.background.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="logo">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.logo.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="text">
+                                                  <param name="Local" value="cBoutonMenu.TBoutonMenu.text.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Enumerations">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TBoutonMenuType">
+                                  <param name="Local" value="cBoutonMenu.TBoutonMenuType.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuEnTrainig">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.JeuEnTrainig.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuEnChrono">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.JeuEnChrono.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuEnChallenge">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.JeuEnChallenge.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="JeuEnTournoi">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.JeuEnTournoi.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="CreditsDuJeu">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.CreditsDuJeu.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="HallOfFame">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.HallOfFame.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="QuitterLeProgramme">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.QuitterLeProgramme.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Reglages">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.Reglages.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="NiveauFacile">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.NiveauFacile.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="NiveauMoyen">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.NiveauMoyen.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="NiveauDifficile">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.NiveauDifficile.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="RetourAuMenu">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.RetourAuMenu.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Enregistrer">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.Enregistrer.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Charger">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.Charger.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="TournoiWan">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.TournoiWan.html">
+                                          </OBJECT>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="TournoiLan">
+                                          <param name="Local" value="cBoutonMenu.TBoutonMenuType.TournoiLan.html">
+                                          </OBJECT>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Variables">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="BoutonMenu">
+                                  <param name="Local" value="cBoutonMenu.BoutonMenu.html">
+                                  </OBJECT>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="Register">
+                                  <param name="Local" value="cBoutonMenu.Register.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fAncetreCadreTraduit">
+                  <param name="Local" value="fAncetreCadreTraduit.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="T_AncetreCadreTraduit">
+                                  <param name="Local" value="fAncetreCadreTraduit.T_AncetreCadreTraduit.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="fAncetreFicheTraduite">
+                  <param name="Local" value="fAncetreFicheTraduite.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="T_AncetreFicheTraduite">
+                                  <param name="Local" value="fAncetreFicheTraduite.T_AncetreFicheTraduite.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Constructors">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="Create">
+                                                  <param name="Local" value="fAncetreFicheTraduite.T_AncetreFicheTraduite.Create.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="TraduireTextes">
+                                                  <param name="Local" value="fAncetreFicheTraduite.T_AncetreFicheTraduite.TraduireTextes.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                  </UL>
+              <LI> <OBJECT type="text/sitemap">
+                  <param name="Name" value="uDMTraductions">
+                  <param name="Local" value="uDMTraductions.html">
+                  </OBJECT>
+                  <UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Classes">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="TdmTraductions">
+                                  <param name="Local" value="uDMTraductions.TdmTraductions.html">
+                                  </OBJECT>
+                                  <UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Methods">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="DataModuleCreate">
+                                                  <param name="Local" value="uDMTraductions.TdmTraductions.DataModuleCreate.html">
+                                                  </OBJECT>
+                                          </UL>
+                                      <LI> <OBJECT type="text/sitemap">
+                                          <param name="Name" value="Fields">
+                                          </OBJECT>
+                                          <UL>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="FDStanStorageBinLink1">
+                                                  <param name="Local" value="uDMTraductions.TdmTraductions.FDStanStorageBinLink1.html">
+                                                  </OBJECT>
+                                              <LI> <OBJECT type="text/sitemap">
+                                                  <param name="Name" value="tabTextesTraduits">
+                                                  <param name="Local" value="uDMTraductions.TdmTraductions.tabTextesTraduits.html">
+                                                  </OBJECT>
+                                          </UL>
+                                  </UL>
+                          </UL>
+                      <LI> <OBJECT type="text/sitemap">
+                          <param name="Name" value="Routines">
+                          </OBJECT>
+                          <UL>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="ChangeLangue">
+                                  <param name="Local" value="uDMTraductions.ChangeLangue.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="GetLangue">
+                                  <param name="Local" value="uDMTraductions.GetLangue.html">
+                                  </OBJECT>
+                              <LI> <OBJECT type="text/sitemap">
+                                  <param name="Name" value="_">
+                                  <param name="Local" value="uDMTraductions._.html">
+                                  </OBJECT>
+                          </UL>
+                  </UL>
+          </UL>
+    </UL>
+</BODY>
+</HTML>
